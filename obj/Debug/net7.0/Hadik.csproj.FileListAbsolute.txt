@@ -1,0 +1,15 @@
+/Users/jantylecek/Projects/ITnewtork/Lekce_13_13/Hadik/obj/Debug/net7.0/Hadik.csproj.AssemblyReference.cache
+/Users/jantylecek/Projects/ITnewtork/Lekce_13_13/Hadik/obj/Debug/net7.0/Hadik.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jantylecek/Projects/ITnewtork/Lekce_13_13/Hadik/obj/Debug/net7.0/Hadik.AssemblyInfoInputs.cache
+/Users/jantylecek/Projects/ITnewtork/Lekce_13_13/Hadik/obj/Debug/net7.0/Hadik.AssemblyInfo.cs
+/Users/jantylecek/Projects/ITnewtork/Lekce_13_13/Hadik/obj/Debug/net7.0/Hadik.csproj.CoreCompileInputs.cache
+/Users/jantylecek/Projects/ITnewtork/Lekce_13_13/Hadik/bin/Debug/net7.0/Hadik
+/Users/jantylecek/Projects/ITnewtork/Lekce_13_13/Hadik/bin/Debug/net7.0/Hadik.deps.json
+/Users/jantylecek/Projects/ITnewtork/Lekce_13_13/Hadik/bin/Debug/net7.0/Hadik.runtimeconfig.json
+/Users/jantylecek/Projects/ITnewtork/Lekce_13_13/Hadik/bin/Debug/net7.0/Hadik.dll
+/Users/jantylecek/Projects/ITnewtork/Lekce_13_13/Hadik/bin/Debug/net7.0/Hadik.pdb
+/Users/jantylecek/Projects/ITnewtork/Lekce_13_13/Hadik/obj/Debug/net7.0/Hadik.dll
+/Users/jantylecek/Projects/ITnewtork/Lekce_13_13/Hadik/obj/Debug/net7.0/refint/Hadik.dll
+/Users/jantylecek/Projects/ITnewtork/Lekce_13_13/Hadik/obj/Debug/net7.0/Hadik.pdb
+/Users/jantylecek/Projects/ITnewtork/Lekce_13_13/Hadik/obj/Debug/net7.0/Hadik.genruntimeconfig.cache
+/Users/jantylecek/Projects/ITnewtork/Lekce_13_13/Hadik/obj/Debug/net7.0/ref/Hadik.dll
